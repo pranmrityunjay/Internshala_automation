@@ -1,5 +1,15 @@
 {
   "dependencies": {
+    "express": "^4.21.1",
     "puppeteer": "^23.7.1"
-  }
+  },
+  "name": "internshala_automation",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mrityunjay_Kumar",
+  "license": "ISC",
+  "description": ""
 }
